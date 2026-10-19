@@ -10,11 +10,10 @@
 
 [Открыть бота](https://t.me/serritmbot) · [Код и инструкция запуска](https://github.com/1eoBrav0/ser-ritm)
 
-Бот сейчас переезжает на постоянный сервер. Локальную версию уже можно запустить из репозитория.
+Бот уже работает на сервере — можно открыть и попробовать. После простоя первый запуск иногда занимает около минуты.
 
 <a href="https://github.com/1eoBrav0/ser-ritm"><img src="https://raw.githubusercontent.com/1eoBrav0/ser-ritm/main/docs/images/desktop-v2.8.png" alt="Ритм — расписание дня" width="760"></a>
 
 Сервер — Python, данные — SQLite или PostgreSQL, интерфейс — HTML, CSS и JavaScript.
 
 Дальше хочу сделать проект на n8n: собирать новости о CS2 и готовить посты для Telegram.
-
