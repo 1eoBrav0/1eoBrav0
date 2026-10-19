@@ -1,16 +1,24 @@
-## Hi there 👋
+# Привет, я Серафим
 
-<!--
-**1eoBrav0/1eoBrav0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Учусь на программиста и собираю портфолио из собственных проектов. Начал с Python, сейчас изучаю JavaScript и делаю небольшие веб-приложения и инструменты для Telegram.
 
-Here are some ideas to get you started:
+Свои приложения объединяю под именем **Ser**. Мне нравится, когда интерфейс простой, а в коде можно разобраться без долгих объяснений.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Первый проект — Ser / Ритм
+
+[Ритм](https://github.com/1eoBrav0/ser-ritm) — ежедневник внутри Telegram: календарь, задачи, заметки и напоминания.
+
+В нём можно запланировать работу с 15:00 до 17:00, повторять её по понедельникам и смотреть загрузку недели. Интерфейс адаптируется под телефон и компьютер. Записи пользователей хранятся отдельно.
+
+<a href="https://github.com/1eoBrav0/ser-ritm"><img src="https://raw.githubusercontent.com/1eoBrav0/ser-ritm/main/docs/images/desktop-v2.8.png" alt="Ser Ритм: расписание дня на компьютере" width="760"></a>
+
+**Внутри:** Python, SQLite, HTML, CSS и JavaScript. В репозитории есть исходники, инструкция локального запуска, описание архитектуры и автоматические проверки.
+
+[Посмотреть проект и запустить локально →](https://github.com/1eoBrav0/ser-ritm#запуск-на-компьютере)
+
+## Что изучаю дальше
+
+Продолжаю разбираться в Python и JavaScript. Следующий проект хочу посвятить автоматизации в n8n: собирать новости о CS2 из разных источников и готовить посты для Telegram.
+
+Здесь будут появляться новые работы по мере готовности.
+
